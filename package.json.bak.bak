@@ -10,7 +10,7 @@
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build",
     "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build && sh scripts/deploy.sh"
   },
-  "author": "Token Generator (https://github.com/bep20)",
+  "author": "Vittorio Minacori (https://github.com/bep20)",
   "repository": {
     "type": "git",
     "url": "https://github.com/bep20/token-generator.git"
