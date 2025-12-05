@@ -20,7 +20,7 @@ meta:
 # How to create BEP20 Token on BNB Smart Chain (BSC)
 
 ::: warning IMPORTANT UPDATE
-Token Generator is now available only on [SmartContracts Tools](https://createmytoken.net/token-generator/).
+Token Generator is now available only on [Token Generator](https://createmytoken.net/token-generator/).
 :::
 
 ## BNB Smart Chain (BSC)

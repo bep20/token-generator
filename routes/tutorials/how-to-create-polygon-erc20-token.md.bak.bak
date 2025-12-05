@@ -20,7 +20,7 @@ meta:
 # How to create ERC20 Token on Polygon PoS Chain
 
 ::: warning IMPORTANT UPDATE
-Token Generator is now available only on [SmartContracts Tools](https://createmytoken.net/token-generator/).
+Token Generator is now available only on [Token Generator](https://createmytoken.net/token-generator/).
 :::
 
 ## Polygon PoS Chain
