@@ -10,20 +10,20 @@
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build",
     "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build && sh scripts/deploy.sh"
   },
-  "author": "Vittorio Minacori (https://github.com/bep20)",
+  "author": "Vittorio Minacori (https://github.com/vittominacori)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bep20/token-generator.git"
+    "url": "https://github.com/vittominacori/token-generator.git"
   },
-  "homepage": "https://github.com/bep20/token-generator",
+  "homepage": "https://github.com/vittominacori/token-generator",
   "bugs": {
-    "url": "https://github.com/bep20/token-generator/issues"
+    "url": "https://github.com/vittominacori/token-generator/issues"
   },
   "license": "MIT",
   "devDependencies": {
     "prettier": "^3.6.2",
     "vue-cookie-law": "^1.13.3",
     "vuepress": "^1.9.10",
-    "vuepress-plugin-gtag": "bep20/vuepress-plugin-gtag"
+    "vuepress-plugin-gtag": "vittominacori/vuepress-plugin-gtag"
   }
 }

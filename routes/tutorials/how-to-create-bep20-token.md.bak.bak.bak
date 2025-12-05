@@ -1,35 +1,35 @@
 ---
-permalink: tutorials/how-to-create-erc20-token
-title: How to create ERC20 Token on Ethereum Network
-description: Create ERC20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.
+permalink: tutorials/how-to-create-bep20-token
+title: How to create BEP20 Token on BNB Smart Chain (BSC)
+description: Create BEP20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable BEP20 Token.
 meta:
   - http-equiv: refresh
-    content: 0; url=https://createmytoken.net/token-generator/tutorials/how-to-create-erc20-token-on-ethereum/
+    content: 0; url=https://createmytoken.net/token-generator/tutorials/how-to-create-bep20-token-on-bsc/
   - property: og:url
-    content: https://bep20.github.io/token-generator/tutorials/how-to-create-erc20-token/
+    content: https://bep20.github.io/token-generator/tutorials/how-to-create-bep20-token/
   - property: og:title
-    content: How to create ERC20 Token on Ethereum Network | Token Generator
+    content: How to create BEP20 Token on BNB Smart Chain (BSC) | Token Generator
   - property: og:description
-    content: Create ERC20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.
+    content: Create BEP20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable BEP20 Token.
   - property: twitter:title
-    content: How to create ERC20 Token on Ethereum Network | Token Generator
+    content: How to create BEP20 Token on BNB Smart Chain (BSC) | Token Generator
   - property: twitter:description
-    content: Create ERC20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.
+    content: Create BEP20 Token. Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable BEP20 Token.
 ---
 
-# How to create ERC20 Token on Ethereum Network
+# How to create BEP20 Token on BNB Smart Chain (BSC)
 
 ::: warning IMPORTANT UPDATE
 Token Generator is now available only on [SmartContracts Tools](https://createmytoken.net/token-generator/).
 :::
 
-## Ethereum Network
+## BNB Smart Chain (BSC)
 
-ERC20 Token Generator is a distributed application that runs on the Ethereum Network, using specially-developed Smart Contracts to enable users to build their ERC20 Tokens.
+BEP20 Token Generator is a distributed application that runs on the BNB Smart Chain (BSC), using specially-developed Smart Contracts to enable users to build their BEP20 Tokens.
 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable BEP20 Token.
 
-Create an Ethereum ERC20 Token in less than a minute.
+Create a BSC BEP20 Token in less than a minute.
 
 **No login. No setup. No coding required.**
 
@@ -37,49 +37,49 @@ Create an Ethereum ERC20 Token in less than a minute.
 
 ## Create Token
 
-Visit [ERC20 Token Generator](https://bep20.github.io/erc20-generator/)
+Visit [BEP20 Token Generator](https://bep20.github.io/bep20-generator/)
 
 ### Choose your token type
 
 Choose between different token types and features.
 
-![Token Types](/token-generator/images/tutorials/create/erc20/token-types.png)
+![Token Types](/token-generator/images/tutorials/create/bep20/token-types.png)
 
 ### Enter your details
 
 Enter your preferred Token name and symbol. Choose your supply and Token type.
 
-![Token Details](/token-generator/images/tutorials/create/erc20/token-details.png)
+![Token Details](/token-generator/images/tutorials/create/bep20/token-details.png)
 
 ### Confirm your transaction
 
 Confirm your transaction using MetaMask.
 
-![Token Confirm](/token-generator/images/tutorials/create/erc20/token-confirm.png)
+![Token Confirm](/token-generator/images/tutorials/create/bep20/token-confirm.png)
 
 ### Waiting for confirmation
 
 Waiting for your transaction to be confirmed.
 
-![Token Waiting](/token-generator/images/tutorials/create/erc20/token-waiting.png)
+![Token Waiting](/token-generator/images/tutorials/create/bep20/token-waiting.png)
 
 ### View your token
 
-Your token is ready to use, view on Etherscan, add to MetaMask or create a widget.
+Your token is ready to use, view on BscScan or add to MetaMask.
 
-![Token Confirmed](/token-generator/images/tutorials/create/erc20/token-confirmed.png)
+![Token Confirmed](/token-generator/images/tutorials/create/bep20/token-confirmed.png)
 
 ### Verified source code
 
-Your source code will be automatically verified on Etherscan.
+Your source code will be automatically verified on BscScan.
 
-![Token Source Code](/token-generator/images/tutorials/create/erc20/token-source-code.png)
+![Token Source Code](/token-generator/images/tutorials/create/bep20/token-source-code.png)
 
 ## Features
 
 ### Detailed
 
-Your Token will be fully compliant with the ERC20 definition and compatible with any ERC20 wallet all around the world. It will have a name, a symbol and a decimals amount.
+Your Token will be fully compliant with the BEP20 definition and compatible with any BEP20 wallet all around the world. It will have a name, a symbol and a decimals amount.
 
 ### Burnable
 
@@ -107,16 +107,6 @@ You can define an initial supply to sent to Token Owner's wallet. You can increa
 
 You can define an initial supply to sent to Token Owner's wallet. You can increase or reduce supply later by minting or burning tokens (if allowed). You will be able to generate unlimited tokens without an upper limit.
 
-### Transfer Type
-
-#### Unstoppable
-
-Everyone can always transfer his own tokens. Transfer can't be stopped.
-
-#### Pausable
-
-Token owner can stop token transfers. Useful for scenarios such as preventing trades until the end of an evaluation period, or having an emergency switch for freezing all token transfers in the event of a large bug.
-
 ### Access Type
 
 #### None
@@ -137,11 +127,11 @@ The ERC1363 is an ERC20 compatible Token that can make a callback on the receive
 
 ### Token Recover
 
-There are lots of tokens lost forever into Smart Contracts. It allows the contract owner to recover any ERC20 token sent into the contract for error.
+There are lots of tokens lost forever into Smart Contracts. It allows the contract owner to recover any BEP20 token sent into the contract for error.
 
 ## View App
 
-Visit [ERC20 Token Generator](https://bep20.github.io/erc20-generator/)
+Visit [BEP20 Token Generator](https://bep20.github.io/bep20-generator/)
 
 ## Disclaimer
 
@@ -162,7 +152,7 @@ any financial investment.
 :::
 
 ::: tip &copy; 2018 - 2025 | All rights reserved.
-**[Token Generator](https://createmytoken.net/)** is a software registered by [Vittorio Minacori](https://vittorio.minacori.me)
+**[Token Generator](https://erc20tokengenerator.com/)** is a software registered by [Vittorio Minacori](https://vittorio.minacori.me)
 
 Unauthorized reproduction, copying, distribution or any other use of the whole or any part of this software is strictly prohibited.
 :::

@@ -126,7 +126,7 @@ module.exports = {
       },
       {
         text: "Official Website",
-        link: "https://createmytoken.net",
+        link: "https://erc20tokengenerator.com",
       },
       {
         text: "Open App",
