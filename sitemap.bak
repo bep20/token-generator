@@ -5,27 +5,27 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://bep20.github.io/token-generator/</loc>
+        <loc>https://vittominacori.github.io/token-generator/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://bep20.github.io/token-generator/tutorials/</loc>
+        <loc>https://vittominacori.github.io/token-generator/tutorials/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://bep20.github.io/token-generator/tutorials/how-to-create-erc20-token/</loc>
+        <loc>https://vittominacori.github.io/token-generator/tutorials/how-to-create-erc20-token/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://bep20.github.io/token-generator/tutorials/how-to-create-bep20-token/</loc>
+        <loc>https://vittominacori.github.io/token-generator/tutorials/how-to-create-bep20-token/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://bep20.github.io/token-generator/tutorials/how-to-create-polygon-erc20-token/</loc>
+        <loc>https://vittominacori.github.io/token-generator/tutorials/how-to-create-polygon-erc20-token/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
